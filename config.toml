@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'eco250.netlify.app/'
+baseURL = 'eco250.netlify.app'
 title = 'ECO 250 Spring 2021'
 theme = "hugo-book"
 
